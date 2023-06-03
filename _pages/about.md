@@ -22,7 +22,7 @@ Research area is related to XAI, Graph Neural Network, Self-Supervised Learning,
 Research Experience
 ==================
 1. Human Mesh Recovery, recover human mesh from a single picture, from July,2019 to March,2021
-2. Explainable AI and Neural graph network, from Jan,2023 to Now
+2. Explainable AI and Neural graph network, from January,2023 to Now
 
 Working Experience
 ==================
