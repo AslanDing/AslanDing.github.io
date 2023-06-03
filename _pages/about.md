@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Here is the bullshit. I don't know what need to show here, so I just put some nonsense here. 
+Here is bullshit. I don't know what need to show here, so I just put some nonsense. 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. 
 
 Education
@@ -36,9 +36,5 @@ C/C++, Python, Torch, Tensorflow
 
 Publications
 ------
-1. Unsafe Behavior Detection with Adaptive Contrastive Learning in Industrial Control Systems
-
-    Xu Zheng, Tianchun Wang, Samin Y. Chowdhury, Ruimin Sun, Dongsheng Luo
-
-    Workshop on Re-design Industrial Control Systems with Security (RICSS) @ IEEE EuroS&P 2023
-2. 
+1. a paper(AdaTCL) received by  Workshop on Re-design Industrial Control Systems with Security (RICSS) @ IEEE EuroS&P 2023
+2. a paper(cgan human mesh) published by ACCV2022
