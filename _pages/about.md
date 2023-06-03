@@ -37,6 +37,8 @@ C/C++, Python, Torch, Tensorflow
 Publications
 ------
 1. Unsafe Behavior Detection with Adaptive Contrastive Learning in Industrial Control Systems
+
     Xu Zheng, Tianchun Wang, Samin Y. Chowdhury, Ruimin Sun, Dongsheng Luo
+
     Workshop on Re-design Industrial Control Systems with Security (RICSS) @ IEEE EuroS&P 2023
 2. 
