@@ -36,5 +36,6 @@ C/C++, Python, Torch, Tensorflow
 
 Publications
 ------
-1. a paper(AdaTCL) received by  Workshop on Re-design Industrial Control Systems with Security (RICSS) @ IEEE EuroS&P 2023
-2. a paper(cgan human mesh) published by ACCV2022
+- a paper(AutoTCL) received by  AI4TS workshop at IJCAI2023
+- a paper(AdaTCL) received by  Workshop on Re-design Industrial Control Systems with Security (RICSS) @ IEEE EuroS&P 2023 
+- a paper(cgan human mesh) published by ACCV2022
