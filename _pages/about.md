@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Here is bullshit. I don't know what need to show here, so I just put some nonsense. 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. 
 
 Education
@@ -21,12 +20,12 @@ Research area is related to XAI, Graph Neural Network, Self-Supervised Learning,
 
 Research Experience
 ==================
-1. Human Mesh Recovery, recover human mesh from a single picture, from July,2019 to March,2021
-2. Explainable AI and Neural graph network, from January,2023 to Now
+1. Human Mesh Recovery, recover human mesh from a single picture, from July 2019 to March 2021
+2. Explainable AI and Graph Neural network, from January 2023 to Now
 
 Working Experience
 ==================
-1. AI and design, related to Android camera image processing, from July,2021 to January,2023
+1. AI and design, related to Android camera image processing, from July 2021 to January 2023
 
 
 Tools
