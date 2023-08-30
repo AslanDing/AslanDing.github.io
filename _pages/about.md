@@ -35,6 +35,6 @@ C/C++, Python, Torch, Tensorflow
 
 Publications
 ------
-- a paper(AutoTCL, best paper reward) received by  AI4TS workshop at IJCAI2023
+- a paper(AutoTCL, [best paper reward](https://ai4ts.github.io/ijcai2023)) received by  AI4TS workshop at IJCAI2023
 - a paper(AdaTCL) received by  Workshop on Re-design Industrial Control Systems with Security (RICSS) @ IEEE EuroS&P 2023 
 - a paper(cgan human mesh) published by ACCV2022
