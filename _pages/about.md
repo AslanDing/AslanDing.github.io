@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 ------
+
 Education
 ======
 Graduated from [Chongqing University](https://www.cqu.edu.cn) majored in Electronic Science and Technology. 
