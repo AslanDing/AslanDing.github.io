@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. 
-
 Education
 ======
 Graduated from [Chongqing University](https://www.cqu.edu.cn) majored in Electronic Science and Technology. 
@@ -36,6 +34,10 @@ C/C++, Python, Torch, Tensorflow
 
 Publications
 ------
-- a paper(AutoTCL, [best paper award](https://ai4ts.github.io/ijcai2023)) received by  AI4TS workshop at IJCAI2023
-- a paper(AdaTCL) received by  Workshop on Re-design Industrial Control Systems with Security (RICSS) @ IEEE EuroS&P 2023 
-- a paper(cgan human mesh) published by ACCV2022
+- a paper(AutoTCL, [best paper award](https://ai4ts.github.io/ijcai2023)) accepted by  AI4TS workshop at IJCAI2023
+- a paper(AdaTCL) accepted by  Workshop on Re-design Industrial Control Systems with Security (RICSS) @ IEEE EuroS&P 2023 
+- a paper(cgan human mesh) accepted by ACCV2022
+
+Acknowledge
+------
+This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. 
