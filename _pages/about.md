@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+<<<<<<< HEAD
 ----
+=======
+------
+>>>>>>> a8dbf088b286da739f06af57c78a1bb4a69919a3
 
 Education
 ----
