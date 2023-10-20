@@ -13,11 +13,10 @@ redirect_from:
 
 Education
 ---------
-Graduated from [Chongqing University](https://www.cqu.edu.cn) majored in Electronic Science and Technology. 
-Graduated from the University of Electronic Science and Technology of China [(UESTC)](https://www.uest.edu.cn) 
-with a master's degree. My supervisor was [Dr. Yali Zheng](http://www.uestc-vml.net/) and research topic was Human mesh recovery.
-Now, a phd student in Florida International University [(FIU)](https://www.fiu.edu), Supervisor [Dr. Dongsheng Luo](https://users.cs.fiu.edu/~dluo/). 
-Research area is related to GAN, XAI, Graph Neural Network, Self-Supervised Learning, Time Series Data Processing. 
+In 2018, I graduated from [Chongqing University](https://www.cqu.edu.cn) majored in Electronic Science and Technology. After that, I graduated from the University of Electronic Science and Technology of China [(UESTC)](https://www.uest.edu.cn)
+with a master's degree in 2021. My supervisor was [Dr. Yali Zheng](http://www.uestc-vml.net/) and research topic was Human mesh recovery.
+Now, I am a phd student in Florida International University [(FIU)](https://www.fiu.edu), Supervisor [Dr. Dongsheng Luo](https://users.cs.fiu.edu/~dluo/). 
+Research area are related to GAN, XAI, Graph Neural Network, Self-Supervised Learning, Time Series Data Processing. 
 
 Research Experience
 --------
@@ -32,7 +31,7 @@ Working Experience
 
 Tools
 ------
-C/C++, Python, Torch, Tensorflow
+Python, PyTorch, Tensorflow, C/C++
 
 
 Publications
