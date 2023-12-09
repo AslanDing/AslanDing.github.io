@@ -25,7 +25,7 @@ Research Experience
 
 Working Experience
 ---------
-1. AI and design, related to Android camera image processing, from July 2021 to January 2023
+1. AI and design(ZTE), related to Android camera image processing, from July 2021 to January 2023
 2. TA(Teaching Assistant) System programing, From May 2023 to Aug 2023.
 3. TA(Teaching Assistant) intro to AI, From Aug 2023 to Now.
 
