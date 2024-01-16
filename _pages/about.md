@@ -27,7 +27,8 @@ Working Experience
 ---------
 1. AI and design(ZTE), related to Android camera image processing, from July 2021 to January 2023
 2. TA(Teaching Assistant) System programing, From May 2023 to Aug 2023.
-3. TA(Teaching Assistant) intro to AI, From Aug 2023 to Now.
+3. TA(Teaching Assistant) intro to AI, From Aug 2023 to Dec 2023.
+4. TA(Teaching Assistant) Java, From Jan 2024 to Now.
 
 Tools
 ------
@@ -36,9 +37,10 @@ Python, PyTorch, Tensorflow, C/C++
 
 Publications
 -------
-- a paper(AutoTCL, [best paper award](https://ai4ts.github.io/ijcai2023)) accepted by  AI4TS workshop at IJCAI2023
-- a paper(AdaTCL) accepted by  Workshop on Re-design Industrial Control Systems with Security (RICSS) @ IEEE EuroS&P 2023 
-- a paper(cgan human mesh) accepted by ACCV2022
+- two paper accepted by  ICLR 2024
+- one paper(AutoTCL, [best paper award](https://ai4ts.github.io/ijcai2023)) accepted by  AI4TS workshop at IJCAI2023
+- one paper(AdaTCL) accepted by  Workshop on Re-design Industrial Control Systems with Security (RICSS) @ IEEE EuroS&P 2023 
+- one paper(cgan human mesh) accepted by ACCV2022
 
 Acknowledge
 ------
