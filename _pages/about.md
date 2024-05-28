@@ -13,27 +13,28 @@ redirect_from:
 
 Education
 ---------
-In 2018, I graduated from [Chongqing University](https://www.cqu.edu.cn) majored in Electronic Science and Technology. After that, I graduated from the University of Electronic Science and Technology of China [(UESTC)](https://www.uest.edu.cn)
-with a master's degree in 2021. My supervisor was [Dr. Yali Zheng](http://www.uestc-vml.net/) and research topic was Human mesh recovery.
-Now, I am a phd student in Florida International University [(FIU)](https://www.fiu.edu), Supervisor [Dr. Dongsheng Luo](https://users.cs.fiu.edu/~dluo/). 
+In 2018, he graduated from [Chongqing University](https://www.cqu.edu.cn) majored in Electronic Science and Technology. After that, he graduated from the University of Electronic Science and Technology of China [(UESTC)](https://www.uest.edu.cn)
+with a master's degree in 2021. His supervisor was [Dr. Yali Zheng](http://www.uestc-vml.net/) and research topic was Human mesh recovery.
+Now, he is a phd student in Florida International University [(FIU)](https://www.fiu.edu), Supervisor [Dr. Dongsheng Luo](https://users.cs.fiu.edu/~dluo/). 
 Research area are related to XAI, Time Series Learning, Graph Neural Network, Self-Supervised Learning, GAN. 
 
 Research Experience
 --------
-1. Human Mesh Recovery, recover human mesh from a single picture, from July 2019 to March 2021
-2. Explainable AI and Graph Neural network, from January 2023 to Now
+1. Explainable AI and Graph Neural network, from Jan. 2023 to Now
+2. Time Series Contrastive Learning with Adaptive Augmentation, from Jan. 2023 to Sept. 2023
+3. Human Mesh Recovery, recover human mesh from a single picture, from July 2019 to Mar. 2021
 
 Working Experience
 ---------
-1. AI and design(ZTE), related to Android camera image processing, from July 2021 to January 2023
-2. TA(Teaching Assistant) System programing, From May 2023 to Aug 2023.
-3. TA(Teaching Assistant) intro to AI, From Aug 2023 to Dec 2023.
-4. TA(Teaching Assistant) Java, From Jan 2024 to Now.
+1. Research Intern(NEC Lab) , From May 2024 to Aug. 2024.
+2. TA(Teaching Assistant) Java, From Jan. 2024 to Apr. 2024.
+3. TA(Teaching Assistant) intro to AI, From Aug. 2023 to Dec 2023.
+4. TA(Teaching Assistant) System programing, From May 2023 to Aug 2023.
+5. AI and design(ZTE), related to Android camera image processing, from July 2021 to Jan. 2023
 
 Tools
 ------
 Python, PyTorch, Tensorflow, C/C++
-
 
 Publications
 -------
