@@ -1,28 +1,31 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 redirect_from: 
   - /publications/
   - /publications.html
 ---
-Zichuan Liu, Tianchun Wang, Jimeng Shi, **Xu Zheng**, et. al, Dongsheng Luo, TimeX++: Learning Time-Series Explanations with Information Bottleneck, ICML 2024,[paper](https://arxiv.org/html/2405.09308v1),[code](https://github.com/zichuan-liu/TimeXplusplus) 
 
-Tianchun Wang, Farhad Shirani, **Xu Zheng**, Wei Cheng, Haifeng Chen, Dongsheng Luo and Xiang Zhang, Chiseling the Graph: An Edge-Sculpting Method for Explaining Graph Neural Networks. KDD 2024 under review
+-------
 
-Shouwei Gao, **Xu Zheng**, et. al, Dongsheng Luo, Wenqian Dong, Loxia: Self-Guided Pruning for Scientific AI Foundation Models, (SC 2024 under review) 
+- Zichuan Liu, Tianchun Wang, Jimeng Shi, **Xu Zheng**, et. al, Dongsheng Luo, TimeX++: Learning Time-Series Explanations with Information Bottleneck, ICML 2024,[paper](https://arxiv.org/html/2405.09308v1),[code](https://github.com/zichuan-liu/TimeXplusplus) 
 
-**Xu Zheng**\*, Farhad Shirani\*, Tianchun Wang, Shouwei Gao, Wenqian Dong, Wei Cheng, Dongsheng Luo, PAC Learnability under Explanation-Preserving Graph Perturbations, Arxiv 2024, [paper](https://arxiv.org/abs/2402.05039),[code](https://github.com/AslanDing/forICML24)
+- Tianchun Wang, Farhad Shirani, **Xu Zheng**, Wei Cheng, Haifeng Chen, Dongsheng Luo and Xiang Zhang, Chiseling the Graph: An Edge-Sculpting Method for Explaining Graph Neural Networks. KDD 2024 under review
 
-**Xu Zheng**, Tianchun Wang, Wei Cheng, Aitian Ma, Haifeng Chen, Mo Sha, Dongsheng Luo, Parametric Augmentation for Time Series Contrastive Learning, ICLR 2024, IJCAI workshop AI4TS 2023, [paper](https://openreview.net/pdf?id=EIPLdFy3vp),[code](https://github.com/AslanDing/AutoTCL)
+- Shouwei Gao, **Xu Zheng**, et. al, Dongsheng Luo, Wenqian Dong, Loxia: Self-Guided Pruning for Scientific AI Foundation Models, (SC 2024 under review) 
 
-**Xu Zheng**\*, Farhad Shirani\*, Tianchun Wang, Wei Cheng, Zhuomin Chen, Haifeng Chen, Hua Wei, Dongsheng Luo, Towards Robust Fidelity for Evaluating Explainability of Graph Neural Networks, ICLR 2024,[apper](https://openreview.net/pdf?id=up6hr4hIQH),[project](trustai4s-lab.github.io/fidelity.html),[code](https://github.com/AslanDing/Fidelity)
+- **Xu Zheng**\*, Farhad Shirani\*, Tianchun Wang, Shouwei Gao, Wenqian Dong, Wei Cheng, Dongsheng Luo, PAC Learnability under Explanation-Preserving Graph Perturbations, Arxiv 2024, [paper](https://arxiv.org/abs/2402.05039),[code](https://github.com/AslanDing/forICML24)
 
-Minghao Lin, Minghao Cheng, Yueqi Chen, **Xu Zheng**, Dongsheng Luo, Huajiang Chen, CLExtract: An End-to-End Tool Decoding Highly Corrupted Satellite Stream from Eavesdropping, Black Hat USA Arsenal 2023, [Web](https://www.blackhat.com/us-23/arsenal/schedule/#clextract-an-end-to-end-tool-decoding-highly-corrupted-satellite-stream-from-eavesdropping-31622)
+- **Xu Zheng**, Tianchun Wang, Wei Cheng, Aitian Ma, Haifeng Chen, Mo Sha, Dongsheng Luo, Parametric Augmentation for Time Series Contrastive Learning, ICLR 2024, IJCAI workshop AI4TS 2023, [paper](https://openreview.net/pdf?id=EIPLdFy3vp),[code](https://github.com/AslanDing/AutoTCL)
 
-**Xu Zheng**, Tianchun Wang, Samin Yasar Chowdhury, Ruimin Sun, Dongsheng Luo, Unsafe Behavior Detection with Adaptive Contrastive Learning in Industrial Control Systems, EuroS&PW 2023, [Paper](https://ieeexplore.ieee.org/document/10190657)
+- **Xu Zheng**\*, Farhad Shirani\*, Tianchun Wang, Wei Cheng, Zhuomin Chen, Haifeng Chen, Hua Wei, Dongsheng Luo, Towards Robust Fidelity for Evaluating Explainability of Graph Neural Networks, ICLR 2024,[apper](https://openreview.net/pdf?id=up6hr4hIQH),[project](trustai4s-lab.github.io/fidelity.html),[code](https://github.com/AslanDing/Fidelity)
 
-**Xu Zheng**, Yali Zheng, Shubing Yang, Generating Multiple Hypotheses for 3D Human Mesh and Pose using Conditional Generative Adversarial Nets, ACCV 2022, [Paper](https://openaccess.thecvf.com/content/ACCV2022/papers/Zheng_Generating_Multiple_Hypotheses_for_3D_Human_Mesh_and_Pose_using_ACCV_2022_paper.pdf)
+- Minghao Lin, Minghao Cheng, Yueqi Chen, **Xu Zheng**, Dongsheng Luo, Huajiang Chen, CLExtract: An End-to-End Tool Decoding Highly Corrupted Satellite Stream from Eavesdropping, Black Hat USA Arsenal 2023, [Web](https://www.blackhat.com/us-23/arsenal/schedule/#clextract-an-end-to-end-tool-decoding-highly-corrupted-satellite-stream-from-eavesdropping-31622)
 
-\* means the same contribution. 
+- **Xu Zheng**, Tianchun Wang, Samin Yasar Chowdhury, Ruimin Sun, Dongsheng Luo, Unsafe Behavior Detection with Adaptive Contrastive Learning in Industrial Control Systems, EuroS&PW 2023, [Paper](https://ieeexplore.ieee.org/document/10190657)
+
+- **Xu Zheng**, Yali Zheng, Shubing Yang, Generating Multiple Hypotheses for 3D Human Mesh and Pose using Conditional Generative Adversarial Nets, ACCV 2022, [Paper](https://openaccess.thecvf.com/content/ACCV2022/papers/Zheng_Generating_Multiple_Hypotheses_for_3D_Human_Mesh_and_Pose_using_ACCV_2022_paper.pdf)
+
+- \* means the same contribution. 
