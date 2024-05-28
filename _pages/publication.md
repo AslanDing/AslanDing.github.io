@@ -20,7 +20,7 @@ redirect_from:
 
 - **Xu Zheng**, Tianchun Wang, Wei Cheng, Aitian Ma, Haifeng Chen, Mo Sha, Dongsheng Luo, Parametric Augmentation for Time Series Contrastive Learning, ICLR 2024, IJCAI workshop AI4TS 2023, [paper](https://openreview.net/pdf?id=EIPLdFy3vp),[code](https://github.com/AslanDing/AutoTCL)
 
-- **Xu Zheng**\*, Farhad Shirani\*, Tianchun Wang, Wei Cheng, Zhuomin Chen, Haifeng Chen, Hua Wei, Dongsheng Luo, Towards Robust Fidelity for Evaluating Explainability of Graph Neural Networks, ICLR 2024,[apper](https://openreview.net/pdf?id=up6hr4hIQH),[project](trustai4s-lab.github.io/fidelity.html),[code](https://github.com/AslanDing/Fidelity)
+- **Xu Zheng**\*, Farhad Shirani\*, Tianchun Wang, Wei Cheng, Zhuomin Chen, Haifeng Chen, Hua Wei, Dongsheng Luo, Towards Robust Fidelity for Evaluating Explainability of Graph Neural Networks, ICLR 2024,[paper](https://openreview.net/pdf?id=up6hr4hIQH),[project](trustai4s-lab.github.io/fidelity.html),[code](https://github.com/AslanDing/Fidelity)
 
 - Minghao Lin, Minghao Cheng, Yueqi Chen, **Xu Zheng**, Dongsheng Luo, Huajiang Chen, CLExtract: An End-to-End Tool Decoding Highly Corrupted Satellite Stream from Eavesdropping, Black Hat USA Arsenal 2023, [Web](https://www.blackhat.com/us-23/arsenal/schedule/#clextract-an-end-to-end-tool-decoding-highly-corrupted-satellite-stream-from-eavesdropping-31622)
 
