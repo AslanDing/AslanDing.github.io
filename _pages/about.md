@@ -26,7 +26,7 @@ Research Experience
 
 Working Experience
 ---------
-1. Research Intern(NEC Lab) , From May 2024 to Aug. 2024.
+1. Intern(NEC Lab) , From May 2024 to Aug. 2024.
 2. TA(Teaching Assistant) Java, From Jan. 2024 to Apr. 2024.
 3. TA(Teaching Assistant) intro to AI, From Aug. 2023 to Dec 2023.
 4. TA(Teaching Assistant) System programing, From May 2023 to Aug 2023.
