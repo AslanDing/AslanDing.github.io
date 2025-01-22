@@ -47,4 +47,4 @@ Python, PyTorch, Tensorflow, C/C++
 
 Acknowledge
 ------
-This page is forked from [academicpages template](https://github.com/academicpages/academicpages.github.io). Thanks for the authors and contributors.
+This page is copied from [academicpages template](https://github.com/academicpages/academicpages.github.io). Thanks for the authors and contributors.
